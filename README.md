@@ -66,7 +66,7 @@ GitHub, Google Colab, Microsoft Excel, Word, PowerPoint
 📍 Debrecen, Hungary  
 📧 [dipakpaudel303@gmail.com](mailto:dipakpaudel303@gmail.com)  
 🔗 [LinkedIn: dipakpaudel](https://www.linkedin.com/in/dipakpaudel/)  
-💼 [Resume (PDF)](https://github.com/dipakphp/dipakphp/blob/main/Paudel_Dipak.pdf)
+💼 [Resume (PDF)](https://github.com/dipakphp/resume/blob/main/Paudel_Dipak_CV.pdf)
 
 ---
 
